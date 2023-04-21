@@ -6,10 +6,10 @@ function App() {
   return (
     <div className="App">
       My Todo Application
-      <FirstComponent></FirstComponent>
-      <SecondComponent></SecondComponent>
-      <ThirdComponent></ThirdComponent>
-      <FourthComponent></FourthComponent>
+      <FirstComponent/>
+      <SecondComponent/>
+      <ThirdComponent/>
+      <FourthComponent/>
     </div>
   );
 }
